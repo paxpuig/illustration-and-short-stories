@@ -1,7 +1,6 @@
 +++
 authors = []
-date = 2020-10-05T22:00:00Z
-draft = true
+date = 2020-10-04T22:00:00Z
 excerpt = "Blah blah blah I think that forestry is awesome and we'll manage it pretty well. Oh wait! Knock on wood."
 hero = "/images/transmogrifier_zap.png"
 timeToRead = 5
